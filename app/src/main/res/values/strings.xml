@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThietKeLayoutFB</string>
+    <string name="sign_up">Sign Up for Facebook</string>
+    <string name="username">Input Username</string>
+    <string name="password">Input Password</string>
+    <string name="Log_in">Log in</string>
+    <string name="forgot_password">Forgot Password?</string>
+</resources>
